@@ -1,0 +1,26 @@
+.header-block {
+    color: black;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    font-family: 'Charmonman', cursive;
+    font-size: 80px;
+}
+.image-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.footer-block {
+    color: black;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    font-family: 'Charmonman', cursive;
+    font-size: 30px;
+    font-weight: bolder;
+}
+img {
+    padding: 5px;
+}
